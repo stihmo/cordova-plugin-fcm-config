@@ -36,6 +36,37 @@
           "status": 2
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340632582939:android:59bf2fb9e9ada239",
+        "android_client_info": {
+          "package_name": "com.phonegap.pulTaxiDriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340632582939-hprmostj8l6n7qundo3oi5qf0lidc0q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLkT0PhrB2dqeFwcLifeGnzZaq1TnWB8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
     }
   ],
   "configuration_version": "1"
